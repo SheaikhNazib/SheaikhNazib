@@ -11,7 +11,7 @@
 - **Frameworks & Tools**: React, Next.js, STM32CubeMX, Unreal Engine, Blender
 - **Other Skills**: Machine Learning (PyTorch), Database (MySQL), Git/GitHub
 
-  ### 🌟 Projects
+### 🌟 Projects
 - **[NSU Overclock](#)**: Developed custom game maps and characters using Blender and Unreal Engine. Programmed gameplay mechanics with C++ and optimized performance for a smoother gaming experience.
 - **[NSU ACM SC Website](#)**: Built with Next.js to digitally represent the NSU ACM Student Chapter.
 - **[Traffic Sign Recognition System](#)**: Achieved 95% accuracy using CNN and PyTorch.

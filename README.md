@@ -10,10 +10,13 @@
 - **Frameworks & Tools**: React, Next.js, STM32CubeMX, Unreal Engine, Blender
 - **Other Skills**: Machine Learning (PyTorch), Database (MySQL), Git/GitHub
 
-### 🌟 Featured Projects
-- **[Temperature and Humidity Monitoring System](#)**: Embedded system with STM32 microcontroller to display real-time data and alert on high temperatures.
-- **[NSU ACM SC Website](#)**: Built with Next.js to represent NSU ACM Student Chapter digitally.
+### 🌟 Projects
+- **[NSU Overclock](#)**: Developed custom game maps and characters using Blender and Unreal Engine. Programmed gameplay mechanics with C++ and optimized performance for a smoother gaming experience.
+- **[NSU ACM SC Website](#)**: Built with Next.js to digitally represent the NSU ACM Student Chapter.
 - **[Traffic Sign Recognition System](#)**: Achieved 95% accuracy using CNN and PyTorch.
+- **[Temperature and Humidity Monitoring System](#)**: Embedded system with STM32 microcontroller to display real-time data and alert on high temperatures.
+- **[Community Center Management System](#)**: Created a Java-based platform for booking community centers with customizable packages, date selection, and billing features.
+
 
 ### 📫 Contact Me
 - [LinkedIn](https://linkedin.com/in/sheaikh-nazibur-rahman/)

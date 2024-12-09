@@ -1,16 +1,20 @@
-# Hi there 👋
+# Hi, I'm Sheaikh Nazibur Rahman! 👋
 
+### About Me
+- 🎓 Computer Science Student at North South University (Graduating Dec 2024)
+- 💻 Passionate about **embedded systems**, **game development**, and **web technologies**
+- 🌟 Enthusiastic about solving real-world problems with technology
 
-**SheaikhNazib/SheaikhNazib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills & Tools
+- **Languages**: Java, C++, Python, JavaScript, PHP
+- **Frameworks & Tools**: React, Next.js, STM32CubeMX, Unreal Engine, Blender
+- **Other Skills**: Machine Learning (PyTorch), Database (MySQL), Git/GitHub
 
-Here are some ideas to get you started:
+### 🌟 Featured Projects
+- **[Temperature and Humidity Monitoring System](#)**: Embedded system with STM32 microcontroller to display real-time data and alert on high temperatures.
+- **[NSU ACM SC Website](#)**: Built with Next.js to represent NSU ACM Student Chapter digitally.
+- **[Traffic Sign Recognition System](#)**: Achieved 95% accuracy using CNN and PyTorch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/sheaikh-nazibur-rahman/)
+- [Email](mailto:sheaikh.rahman@northsouth.edu)

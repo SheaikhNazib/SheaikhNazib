@@ -3,7 +3,7 @@
 
 ### About Me
 - 🎓 Computer Science Student at North South University (Graduating Dec 2024)
-- 💻 Passionate about **embedded systems**, **game development**, and **web technologies**
+- 💻 Passionate about **web technologies**, **game development** and **embedded systems** 
 - 🌟 Enthusiastic about solving real-world problems with technology
 
 ### 🛠 Skills & Tools

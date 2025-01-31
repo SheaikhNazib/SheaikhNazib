@@ -2,7 +2,7 @@
 #### "Enthusiastic software developer | Keen on Exploring Technology's Impact on Real Estate"
 
 ### About Me
-- 🎓 Computer Science Student at North South University (Graduating Dec 2024)
+- 🎓 Graduate from North South University at Computer Science & Engineering  
 - 💻 Passionate about **web technologies**, **game development** and **embedded systems** 
 - 🌟 Enthusiastic about solving real-world problems with technology
 

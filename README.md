@@ -19,6 +19,7 @@
 - **[NSU ACM SC Website](#)**: Built with Next.js to digitally represent the NSU ACM Student Chapter.
 - **[Traffic Sign Recognition System](#)**: Achieved 95% accuracy using CNN and PyTorch.
 - **[Temperature and Humidity Monitoring System](#)**: Embedded system with STM32 microcontroller to display real-time data and alert on high temperatures.
+- **[Espresso Emporium Coffee Cart](#)**:  Developed a dynamic web platform using the MERN stack (MongoDB, Express.js, React, and Node.js). Designed an intuitive and responsive interface for seamless management of products, orders, and user interactions.
 - **[Community Center Management System](#)**: Created a Java-based platform for booking community centers with customizable packages, date selection, and billing features.
 
 
